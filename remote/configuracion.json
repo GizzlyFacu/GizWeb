@@ -1,0 +1,33 @@
+{
+    "BlogCards": {
+        "BackgroundPhoto_link": [
+            "Link1",
+            "Link2",
+        ],
+        "Description": [
+            "First Archviz Render, Inspired by the Heydar Aliyev Cultural Center",
+            "Made with Blender & Substance Painter"
+        ],
+        "Title": [
+            "Archviz Exterior #1",
+            "Terrarian Yoyo"
+        ]
+    },
+    "BoxIntroduction": {
+        "Photo_link": "link.com"
+    },
+    "TechSkills": {
+        "Project_BackgroundPhoto_link": [
+            "PhotoLink1",
+            "PhotoLink2"
+        ],
+        "Project_Link": [
+            "https://github.com/GizzlyFacu/PluginKnob",
+            "https://github.com/GizzlyFacu/GizzlyVaultTones"
+        ],
+        "Project_Title": [
+            "OpenGl VST Knob",
+            "VaultTones"
+        ]
+    }
+}
