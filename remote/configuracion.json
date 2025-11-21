@@ -1,8 +1,8 @@
 {
     "BlogCards": {
         "BackgroundPhoto_link": [
-            "Link1",
-            "Link2",
+            "https://raw.githubusercontent.com/GizzlyFacu/GizWeb/refs/heads/main/remote/BlogCard%20Photo%201.jpg",
+            "https://gizzlyfacu.github.io/GizWeb/remote/BlogCard%20Photo%202.jpg",
         ],
         "Description": [
             "First Archviz Render, Inspired by the Heydar Aliyev Cultural Center",
@@ -14,12 +14,12 @@
         ]
     },
     "BoxIntroduction": {
-        "Photo_link": "link.com"
+        "Photo_link": "https://gizzlyfacu.github.io/GizWeb/remote/BoxIntroduction%20Photo.jpeg"
     },
     "TechSkills": {
         "Project_BackgroundPhoto_link": [
-            "PhotoLink1",
-            "PhotoLink2"
+            "https://gizzlyfacu.github.io/GizWeb/remote/TechSkills%20Project1.png",
+            "https://gizzlyfacu.github.io/GizWeb/remote/TechSkills%20Project2.png"
         ],
         "Project_Link": [
             "https://github.com/GizzlyFacu/PluginKnob",
