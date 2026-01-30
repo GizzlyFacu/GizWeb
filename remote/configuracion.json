@@ -1,8 +1,8 @@
 {
     "BlogCards": {
         "BackgroundPhoto_link": [
-            "https://gizzlyfacu.github.io/GizWeb/remote/Blogcard%20Card%202%20BigBand%20WalkCycle.gif",
-            "https://gizzlyfacu.github.io/GizWeb/remote/Blogcard%20Card%201%20Speedmodeling.gif"
+            "https://raw.githubusercontent.com/GizzlyFacu/GizWeb/refs/heads/main/remote/Blogcard%20Card%202%20BigBand%20WalkCycle.gif",
+            "https://raw.githubusercontent.com/GizzlyFacu/GizWeb/refs/heads/main/remote/Blogcard%20Card%201%20Speedmodeling.gif"
         ],
         "Description": [
             "Final 3D Art Project: Blender, Substance Painter and Marvelous Designer",
@@ -18,11 +18,11 @@
         ]
     },
     "BoxIntroduction": {
-        "Photo_link": "https://gizzlyfacu.github.io/GizWeb/remote/BoxIntroduction%20Photo.jpeg"
+        "Photo_link": "https://raw.githubusercontent.com/GizzlyFacu/GizWeb/refs/heads/main/remote/BoxIntroduction%20Photo.jpeg"
     },
     "TechSkills": {
         "Project_BackgroundPhoto_link": [
-            "https://gizzlyfacu.github.io/GizWeb/remote/TechSkills%20Coding%20Project%201.jpg"
+            "https://raw.githubusercontent.com/GizzlyFacu/GizWeb/refs/heads/main/remote/TechSkills%20Coding%20Project%201.jpg"
         ],
         "Project_Link": [
             "https://github.com/GizzlyFacu/Giz-Modular-Web-Portfolio"
@@ -33,9 +33,9 @@
     },
     "TechSkills3dArt": {
         "Project_BackgroundPhoto_link": [
-            "https://gizzlyfacu.github.io/GizWeb/remote/TechSkills%203DArt%20Project%203%20ArchViz.jpg",
-            "https://gizzlyfacu.github.io/GizWeb/remote/TechSkills%203DArt%20Project%201%20Band.jpg",
-            "https://gizzlyfacu.github.io/GizWeb/remote/TechSkills%203DArt%20Project%202%20Weapon.jpg"
+            "https://raw.githubusercontent.com/GizzlyFacu/GizWeb/refs/heads/main/remote/TechSkills%203DArt%20Project%203%20ArchViz.jpg",
+            "https://raw.githubusercontent.com/GizzlyFacu/GizWeb/refs/heads/main/remote/TechSkills%203DArt%20Project%201%20Band.jpg",
+            "https://raw.githubusercontent.com/GizzlyFacu/GizWeb/refs/heads/main/remote/TechSkills%203DArt%20Project%202%20Weapon.jpg"
         ],
         "Project_Link": [
             "https://www.artstation.com/artwork/NG1mLN",
@@ -50,7 +50,7 @@
     },
     "TechSkills3dGraphics": {
         "Project_BackgroundPhoto_link": [
-            "https://gizzlyfacu.github.io/GizWeb/remote/TechSkills%20Project1.png"
+            "https://raw.githubusercontent.com/GizzlyFacu/GizWeb/refs/heads/main/remote/TechSkills%20Project1.png"
         ],
         "Project_Link": [
             "https://github.com/GizzlyFacu/PluginKnob"
@@ -61,7 +61,7 @@
     },
     "TechSkillsUE": {
         "Project_BackgroundPhoto_link": [
-            "https://gizzlyfacu.github.io/GizWeb/remote/TechSkills%20UE%20Project%201.jpg"
+            "https://raw.githubusercontent.com/GizzlyFacu/GizWeb/refs/heads/main/remote/TechSkills%20UE%20Project%201.jpg"
         ],
         "Project_Link": [
             "https://gizzlystation.itch.io/"
